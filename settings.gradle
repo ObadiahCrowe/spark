@@ -20,3 +20,5 @@ include (
         'spark-fabric',
         'spark-universal'
 )
+include 'spark-skyfall'
+
